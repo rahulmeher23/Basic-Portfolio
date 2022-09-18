@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+:root {
+    --primary-color : #e11d48;
+    --bg-color : #rgb(254 226 226);
+    --secondary-color : #f8fafc;
+}
+
+.rose-bg-color {
+    background-color: rgb(254 226 226);
+}
+
+.light-bg-color {
+    background-color: #f8fafc;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+    padding-inline-start: 0rem;
+}
+
+.projects-card {
+    margin-bottom: 1rem;
+    padding: 2rem;
+    padding-top: 0.5rem;
+    border-radius: 1rem;
+}
+
+.project-img {
+    max-width: 430px;
+}
+
+
